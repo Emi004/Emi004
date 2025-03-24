@@ -1,24 +1,65 @@
-# Emi
 <h1 align="center">Hi 👋, I'm Emi</h1>
-<h3 align="center">A student in his 2nd year studying computer engineering at Universitatea Polithenica Timisioara. Currently learning ReactJS, working towards learning backend.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emi004&label=Profile%20views&color=0e75b6&style=flat" alt="emi004" /> </p>
-
-- 🌱 I’m currently learning **ReactJS, Spring Boot**
-
-- 📫 How to reach me **aenoaeiemi49@gmail.com**
-
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/43723c48-531f-47c2-95de-72fa27c7763e?lang=en](https://europa.eu/europass/eportfolio/screen/share/43723c48-531f-47c2-95de-72fa27c7763e?lang=en)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emanuel daniel aenoaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emanuel daniel aenoaei" height="30" width="40" /></a>
-<a href="https://instagram.com/emi_oof_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emi_oof_" height="30" width="40" /></a>
+<p align="center">
+  A passionate Computer Engineering student at <b>Universitatea Politehnica Timișoara</b>.  
+  Currently exploring <b>ReactJS</b> and working towards mastering <b>backend development</b>.  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emi004&show_icons=true&theme=onedark&locale=en&layout=compact" alt="emi004" /></p>
+<h3 align="center">🚀 About Me</h3>
+<div align="center">
+  
+🌱 I’m currently learning **ReactJS, Spring Boot**  
+📫 How to reach me: [Email](mailto:aenoaeiemi49@gmail.com)  
+📜 My portfolio: [Europass CV](https://europa.eu/europass/eportfolio/screen/share/43723c48-531f-4fc2-95de-72fa27c7763e?lang=en)  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emi004&theme=dark" alt="emi004" /></p>
+---
+
+<h3 align="center">📡 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emanuel-daniel-aenoaei-a0a708259" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/emi_oof_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠 Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emi004&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emi004&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+<h3 align="center">🔥 Streak Stats</h3>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Emi004&theme=transparent&hide_border=true&stroke=32EB89&fire=EB8A0A&ring=EB5454&dates=EB5454BA&sideNums=32EB89&currStreakNum=32EB89" alt="GitHub Streak" /></a>
+</p>
+
+---
+
+
