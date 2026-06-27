@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emi (Emanuel Daniel Aenoaei)</h1>
 
 <p align="center">
-  A passionate 3rd-year <b>Computer Engineering</b> student at <b>Universitatea Politehnica Timișoara</b> 🇷🇴<br>
+  A passionate 4th-year <b>Computer Engineering</b> student at <b>Universitatea Politehnica Timișoara</b> 🇷🇴<br>
   Currently working as a <b>Software Engineer at 3Pillar Global</b>, building production microservices for <i>The Telegraph</i>.
 </p>
 
