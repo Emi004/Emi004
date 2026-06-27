@@ -54,7 +54,6 @@
 
 ### ⚙️ Core Engineering Competencies
 
-* 💻 **Low-Level & Operating Systems:** Writing customized `udev` interface definitions for direct hardware link communication on Linux kernel abstractions.
 * 📦 **Cloud & Automation:** Orchestrating declarative Infrastructure-as-Code setups via Terraform, building continuous CI/CD pipelines via Jenkins / GitHub Actions, and deploying scalable Docker runtimes.
 * 📈 **Data Engineering:** Managing data flow processing pipelines using Apache Spark parallel distribution and mapping NLP feature spaces with robust tokenizers.
 
