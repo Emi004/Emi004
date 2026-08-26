@@ -52,13 +52,6 @@
 
 ---
 
-### ⚙️ Core Engineering Competencies
-
-* 📦 **Cloud & Automation:** Orchestrating declarative Infrastructure-as-Code setups via Terraform, building continuous CI/CD pipelines via Jenkins / GitHub Actions, and deploying scalable Docker runtimes.
-* 📈 **Data Engineering:** Managing data flow processing pipelines using Apache Spark parallel distribution and mapping NLP feature spaces with robust tokenizers.
-
----
-
 ### 💻 Featured Repositories
 
 * ⌨️ **[ajazz-rgb-cli](https://github.com/Emi004/ajazz_rgb_controller)**  
