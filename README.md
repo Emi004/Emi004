@@ -24,7 +24,7 @@
 * 💼 **Current Role:** Software Engineer at **3Pillar Global** (Platforms Team for *The Telegraph*). Writing robust microservices, writing unit tests for maximum coverage, and working within agile environments.
 * 🎓 **Education:** 4th Year Computer Engineering Student at **UPT**.
 * 🛠️ **Focus:** Scalable backend architectures, Systems Programming & CLI Utilities, Big Data pipelines (Spark), and Machine Learning.
-* 📜 **Full Portfolio:** [My Europass CV](https://europa.eu/europass/eportfolio/screen/share/43723c48-531f-4fc2-95de-72fa27c7763e?lang=en).
+* 📜 **Full Portfolio:** [My Resume](https://github.com/Emi004/Emi004/raw/main/emanuel_aenoaei_cv.pdf).
 
 ---
 
