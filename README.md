@@ -1,56 +1,33 @@
-<h1 align="center">Hi 👋, I'm Emi (Emanuel Daniel Aenoaei)</h1>
 
 <p align="center">
-  A passionate 4th-year <b>Computer Engineering</b> student at <b>Universitatea Politehnica Timișoara</b> 🇷🇴<br>
-  Currently working as a <b>Software Engineer at 3Pillar Global</b>, building production microservices for <i>The Telegraph</i>.
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Emi004&theme=catppuccin&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Cjob%2Cfocus%2Cneofetch%2Cuptime%2Cexit&customCommands=%7B%22job%22%3A%22Software%20Engineer%20%40%203PillarGlobal%22%2C%22focus%22%3A%22Backend%20Development%22%7D" alt="GitHub Stats Terminal" width="1000px"/>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emanuel-daniel-aenoaei-a0a708259" target="_blank" ><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/emi_oof_" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="mailto:aenoaeiemi49@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Emi004/Emi004/raw/main/emanuel_aenoaei_cv.pdf"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt="My Portofolio" /></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emanuel-daniel-aenoaei-a0a708259" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/emi_oof_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:aenoaeiemi49@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://hyperweave.app/v1/divider/sigil/brutalist.static?variant=carbon" width="1000px">
 </p>
 
----
-
-### 🚀 About Me
-
-* 💼 **Current Role:** Software Engineer at **3Pillar Global** (Platforms Team for *The Telegraph*). Writing robust microservices, writing unit tests for maximum coverage, and working within agile environments.
-* 🎓 **Education:** 4th Year Computer Engineering Student at **UPT**.
-* 🛠️ **Focus:** Scalable backend architectures, Systems Programming & CLI Utilities, Big Data pipelines (Spark), and Machine Learning.
-* 📜 **Full Portfolio:** [My Resume](https://github.com/Emi004/Emi004/raw/main/emanuel_aenoaei_cv.pdf).
-
----
-
-<h3 align="center">🛠 Languages & Tools</h3>
+<h3 align="center">🛠 Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux Systems & Udev" alt="Linux" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash & Scripting" alt="Bash" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="Apache Spark / PySpark" alt="Apache Spark" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="GCP" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" style="border-radius: 50%; margin: 5px 8px;"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" title="Python" alt="Python"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi3.svg" title="FastAPI" alt="FastAPI" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" title="Java" alt="Java" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" title="React" alt="React" /><br/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" title="Tailwind CSS" alt="Tailwind" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" title="Docker" alt="Docker"/>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" title="Postgre" alt="Postgre"/>
 </p>
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/seam/brutalist.static?variant=carbon" width="1000px">
+</p>
 
 ### 💻 Featured Repositories
 
@@ -67,26 +44,17 @@
   A full-stack recipe management application featuring dynamic metric calculation based on servings. Built using **Python (Flask)** and **React**, backed by a **MySQL** database, containerized with **Docker**, and fully deployed live via **AWS**.
 
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emi004&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emi004&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://hyperweave.app/v1/divider/sigil/brutalist.static?variant=carbon" width="1000px">
 </p>
 
----
-
-### 🔥 Streak Stats
-
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Emi004&theme=transparent&hide_border=true&stroke=32EB89&fire=EB8A0A&ring=EB5454&dates=EB5454BA&sideNums=32EB89&currStreakNum=32EB89" alt="GitHub Streak" />
-  </a>
+    <img src="https://hyperweave.app/v1/card/emi004/brutalist.static?variant=carbon" alt="GitHub Streak" width="1000px" />
 </p>
 
----
+<p align="center">
+  <img src="https://hyperweave.app/v1/divider/seam/brutalist.static?variant=carbon" width="1000px">
+</p>
 
 <p align="center">
   <i>"Keep it simple. Keep it automated."</i> 🐢
